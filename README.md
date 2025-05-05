@@ -39,7 +39,7 @@ Este projeto é o trabalho final (capstone) do **Google Data Analytics Professio
 ## 📁 Links para os Notebooks no Google Colab
 
 - 📓 [Notebook de Limpeza e ETL com SQL](https://colab.research.google.com/drive/1vfZdvFMmDMOjyoGEneR9dHGNT8Uwabec?usp=sharing)
-- 📓 [Notebook de Limpeza e ETL com SQL (Estções e Informações Geográficas)] (https://colab.research.google.com/drive/15v6kcGUT41TEf_Ws4pPetAQ2yaQTZdop?usp=sharing)
+- 📓 [Notebook de Limpeza e ETL com SQL (Estções e Informações Geográficas)](https://colab.research.google.com/drive/15v6kcGUT41TEf_Ws4pPetAQ2yaQTZdop?usp=sharing)
 - 📓 [Notebook de Análise Exploratória com Python](https://bit.ly/3RLkf4X)
 
 ---
